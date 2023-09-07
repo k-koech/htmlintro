@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(131, 254, 254);
+}
+
+#header
+{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+#landing-page
+{
+    margin-top: 10px;
+    padding: 3%;
+    background-color: rgb(250, 151, 115);
+}
